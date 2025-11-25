@@ -1,4 +1,2 @@
-zmx
-===
-
-nginx module for zeromq backends
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
